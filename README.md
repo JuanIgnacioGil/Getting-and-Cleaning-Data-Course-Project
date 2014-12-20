@@ -18,6 +18,7 @@ Do `source run_analysis` in your working directory (the output files will all be
 folder)
 
 The script creates the following dataframes:
+
 *`data_raw` (the raw data)
 *`data_tidy` (tidy data) 
 * `VariableMeans` (means of the variables in the tidy data for each subject and activity)

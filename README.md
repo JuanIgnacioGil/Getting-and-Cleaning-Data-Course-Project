@@ -24,7 +24,7 @@ The script creates the following dataframes:
 
 *`data_tidy` (tidy data) 
 
-* `VariableMeans` (means of the variables in the tidy data for each subject and activity)
+*`VariableMeans` (means of the variables in the tidy data for each subject and activity)
 
 
 and saves in the working directory the file `VariableMeans.txt` with the contents of 
